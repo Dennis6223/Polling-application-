@@ -1,0 +1,7 @@
+venv/
+Include/
+Lib
+__pycache__/
+tcl
+prepros-6.config
+.DS_Store
